@@ -2,11 +2,14 @@
 * Soft Skills
 * Hobbies
 * Languages
+* CV Anglais + Francais avec SelectBox?
+* font and icons
+  
   
 # WIP
 * contact + sites on header
-* font and icons
 * Missions
+* social media links
 
 
 
@@ -16,6 +19,7 @@
 * Yousign
 * MySendingBox
 * SIV
+
 ## Webservice de gestion
 
 ## Webservice de souscription
@@ -24,7 +28,14 @@
 * Single Sign On
   
 ## Comptabilité
+
 ## Outillage interne
 
 
-# 
+# Support 
+* support flux santé service prestations
+* support processus
+
+
+## Encadrement
+
