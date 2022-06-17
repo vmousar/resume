@@ -70,5 +70,5 @@
   * Encadrement des nouveaux arrivants IT
   * Liant entre la MOE et MOA
     * Participation à la définition des sujets
-    * Challenging sur les demandes clients et apport de solutions pérennes,  structurantes
+    * Challenge des demandes clients et apport de solutions pérennes,  structurantes
   
