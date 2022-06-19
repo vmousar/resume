@@ -1,3 +1,8 @@
+
+.hobbies {
+  color:#b1a282;
+}
+
 /* Buttons */
 /* Inputs */
 /* Timeline custom component */
@@ -139,3 +144,5 @@ footer a:not(.nav-link) {
   .page-break {
     padding-top: 5rem;
     page-break-before: always; } }
+
+    
