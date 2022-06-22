@@ -100,7 +100,7 @@ html {
   
 .avatar img {  
   border-radius: 50%;
-
+  filter: grayscale();
 }
 
 footer a:not(.nav-link) {
